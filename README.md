@@ -26,12 +26,14 @@ NOTE: Make sure you have Python 3.9+, Added to Path, Google Chrome, and Chrome d
 </p>
 
 <p align="center">
+<a href="https://ffmpeg.org/download.html">Ffmpeg</a> <br>
 <a href="https://www.google.com/chrome/">Google Chrome</a> <br>
 <a href="https://sites.google.com/chromium.org/driver/downloads">Chrome Driver</a>
 </p>
 
 ### Settings:
 - [x] - **Windows 10 / 11**
+- [x] - **Download Ffmpeg:** [here](https://ffmpeg.org/download.html)
 - [x] - **Download Python:** [v3.10](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe) **or** [v3.9](https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe)
 - [x] - **Download [Google Chrome](https://www.google.com/chrome/) and [Chrome Driver](https://sites.google.com/chromium.org/driver/downloads)**
 - [x] - **Might Have Some Bugs**
