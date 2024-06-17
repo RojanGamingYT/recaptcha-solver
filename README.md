@@ -38,7 +38,7 @@ NOTE: Make sure you have Python 3.9+, Added to Path, Google Chrome, and Chrome d
 
 ## 📄・License
 
-This project is licensed under the General Public License v3.0 License - see the [LICENSE.md](./LICENSE) file for details
+This project is licensed under the Apache-2.0 License - see the [LICENSE.md](./LICENSE) file for details
 ```js
   ・Educational purpose only and all the consequences caused by you actions are your responsibility
   ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo
