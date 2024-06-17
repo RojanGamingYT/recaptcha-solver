@@ -1,0 +1,6 @@
+colorama
+pydub
+SpeechRecognition
+webdriver-manager
+selenium
+requests
