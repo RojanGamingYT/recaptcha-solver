@@ -1,7 +1,7 @@
 # Google Recaptcha v2/v3 Solver
 ## `This project demonstrates how to automate solving a reCAPTCHA v2 checkbox using Selenium WebDriver in Python.`
 
-> **DISCLAIMER**: This code is intended for **educational** purposes only. I do not endorse or encourage the automation of solving captchas, as it goes against rules
+> **DISCLAIMER**: This code is intended for **educational** purposes only. I do not endorse or encourage the automation of solving captchas, as it goes against the Terms of Service.
 
 ### DEMO OF CAPTCHA SOLVING
 
