@@ -1,4 +1,11 @@
 # Google Recaptcha v2/v3 Solver
+
+<p align="center">
+<img src="https://img.shields.io/github/languages/top/RojanGamingYT/recaptcha-solver"</a>
+  <img src="https://profile-counter.glitch.me/RojanGamingYT_recaptcha-solver/count.svg" />
+</p>
+
+
 ## `This project demonstrates how to automate solving a reCAPTCHA v2 checkbox using Selenium WebDriver in Python.`
 
 > **DISCLAIMER**: This code is intended for **educational** purposes only. I do not endorse or encourage the automation of solving captchas, as it goes against the Terms of Service.
